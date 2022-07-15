@@ -1,0 +1,54 @@
+-- phpMyAdmin SQL Dump
+-- version 4.9.0.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: localhost:8889
+-- Generation Time: Nov 30, 2019 at 08:51 AM
+-- Server version: 5.7.26
+-- PHP Version: 7.3.8
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+--
+-- Database: `Skincare Products`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `Product Variables`
+--
+
+CREATE TABLE `Product Variables` (
+  `Products` int(11) NOT NULL,
+  `name` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `quantity` int(100) NOT NULL,
+  `cost` int(100) NOT NULL,
+  `costrange` int(100) NOT NULL,
+  `productype` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `concern` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `concernseverity` int(100) NOT NULL,
+  `skintype` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `skinrange` int(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `Product Variables`
+--
+ALTER TABLE `Product Variables`
+  ADD PRIMARY KEY (`Products`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `Product Variables`
+--
+ALTER TABLE `Product Variables`
+  MODIFY `Products` int(11) NOT NULL AUTO_INCREMENT;

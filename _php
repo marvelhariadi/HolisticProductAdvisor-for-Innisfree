@@ -1,0 +1,9 @@
+<?php
+&message = ' ';
+$sdb = new mysqli('localhost','me','bl@ckw0lf','testdatabase');
+
+if ($db->connect_error){
+	$message=$db->connect_error;
+}else{
+	echo $message ;
+}

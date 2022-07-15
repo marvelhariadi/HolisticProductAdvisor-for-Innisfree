@@ -22,17 +22,17 @@ The documentation that accompanies this project is formatted according to the IB
 
 Components:
 
--   **Criterion A:** Summary of the problem domain, and rationale for creating the solution (ie. the program) for the problem, success criteria
+-   **Criterion A:** summary of the problem domain, and rationale for creating the solution (ie. the program) for the problem, success criteria
 
--   **Criterion B:** Test plan to test the success criteria, planned schedule of tasks, database architecture and user-interface planning
+-   **Criterion B:** test plan to test the success criteria, planned schedule of tasks, database architecture and user-interface planning
 
 -   **Criterion C:** developed database architecture and user-interface
 
 -   **Criterion D:** final product video showcase
 
--   **Criterion E:** Client feedback
+-   **Criterion E:** client feedback
 
--   **Appendix:** Client interview transcript
+-   **Appendix:** client interview transcript
 
 ## Final product video:
 

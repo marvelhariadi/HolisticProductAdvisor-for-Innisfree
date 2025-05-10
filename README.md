@@ -36,4 +36,4 @@ Components:
 
 ## Final product video:
 
-The Criteria D video was unable to be uploaded to GitHub due to the file size. It can be accessed via my Google Drive [here](https://drive.google.com/file/d/1UQUpqVlsjAryNI3epNZ-i0EmDT4MAFCz/view?usp=sharing).
+The Criteria D video was unable to be uploaded to GitHub due to the file size. It can be accessed via my Google Drive [here](https://www.youtube.com/watch?v=FNYVVFBOOJw).

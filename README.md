@@ -14,26 +14,13 @@ The project is a quick and user-friendly web application meant to be used in-sto
 
 ## Technical information
 
-The project is a web application. It is written in mostly php with some HTML and CSS for web design purposes. It uses mySQL in order to manage the database of skincare products. The product requires an active mySQL server.
+The project is a web application. It is written in mostly PHP with some HTML and CSS for web design purposes. It uses mySQL in order to manage the database of skincare products. The product requires an active mySQL server.
 
 ## Documentation
 
 The documentation that accompanies this project is formatted according to the IB HL Computer Science guidelines.
 
-Components:
-
--   **Criterion A:** summary of the problem domain, and rationale for creating the solution (ie. the program) for the problem, success criteria
-
--   **Criterion B:** test plan to test the success criteria, planned schedule of tasks, database architecture and user-interface planning
-
--   **Criterion C:** developed database architecture and user-interface
-
--   **Criterion D:** final product video showcase
-
--   **Criterion E:** client feedback
-
--   **Appendix:** client interview transcript
 
 ## Final product video:
 
-The Criteria D video was unable to be uploaded to GitHub due to the file size. It can be accessed via Youtube [here](https://www.youtube.com/watch?v=FNYVVFBOOJw).
+Can be accessed via Youtube [here](https://www.youtube.com/watch?v=FNYVVFBOOJw).
